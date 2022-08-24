@@ -1,7 +1,5 @@
 # react-fundamentals 
 
-<hr>
-
 ## react 예제 공부 
 
 <br>
